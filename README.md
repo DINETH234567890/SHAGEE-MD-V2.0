@@ -1,11 +1,11 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="VAJIRA-MD=aENgyYSJ#EWBxXdE7WM88GmD5kAu-5UwdgnUDP8hDij8WUVG5tRc">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/cbf27695b78b1d761f442.jpg">
     <h1 align="center">MASHAA MD V2</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/94717518710"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
@@ -36,8 +36,8 @@ Welcome to my awesome project! Here you'll find...
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
 # # <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
- [`ASTROPED FOR PLUGINS `](SHAGEE)
-  [`ibrahim-tech-for-help`](MASHAA)
+ [`SHAGEE AND RUKI `](SHAGEE)
+  [`MASHAA`](MASHAA)
   
 
 
@@ -48,16 +48,37 @@ Welcome to my awesome project! Here you'll find...
 - 𝘐 𝘢𝘮 𝘯𝘰𝘵 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘧𝘰𝘳 𝘣𝘢𝘯𝘯𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
 - 𝘜𝘴𝘦 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯 𝘳𝘪𝘴𝘬 𝘣𝘺 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘸𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘮𝘪𝘯𝘥.
 
+-  මෙම bot 'WhatsApp Inc. ' විසින් සාදා ඇත. එබැවින් බොට් අනිසි ලෙස භාවිතා කිරීමෙන් ඔබේ 'වට්ස්ඇප් ගිණුම' 'තහනම්' කළ නොහැකිය! (වගකිමක් ගත හැක.)
+- කෙසෙත් වැරදි අණ දීම් සිදු කිරිමෙන් වලකින්න.
+- මෙම අනතුරු ඇඟවීම මතකයේ තබාගෙන ඔබේම අවදානමකින් භාවිතා කරන්න.
+
 <h2 align="center">  NOTICE
 </h2>
-   
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░ 
- ░▒▓█████████████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░ 
-                                                      
+
+                  ⣤⢔⣒⠂⣀⣀⣤⣄⣀  
+       ⣴⣿⠋⢠⣟⡼⣷⠼⣆⣼⢇⣿⣄⠱⣄
+       ⠹⣿⡀⣆⠙⠢⠐⠉⠉⣴⣾⣽⢟⡰⠃
+        ⠈⢿⣿⣦ ⠤⢴⣿⠿⢋⣴⡏  
+         ⢸⡙⠻⣿⣶⣦⣭⣉⠁⣿   
+          ⣷ ⠈⠉⠉⠉⠉⠇⡟   
+       ⢀  ⣘⣦⣀  ⣀⡴⠊    
+       ⠈⠙⠛⠛⢻⣿⣿⣿⣿⠻⣧⡀   
+           ⠈⠫⣿⠉⠻⣇⠘⠓⠂  
+             ⣿        
+ ⢶⣾⣿⣿⣿⣿⣿⣶⣄   ⣿        
+  ⠹⣿⣿⣿⣿⣿⣿⣿⣧ ⢸⣿        
+   ⠈⠙⠻⢿⣿⣿⠿⠛⣄⢸⡇        
+           ⠘⣿⡇        
+            ⣿⡁        
+            ⣿⠁        
+            ⣿         
+            ⣿         
+            ⣿⡆        
+            ⢹⣷⠂       
+            ⢸⣿        
+            ⢸⣿        
+            ⠸⣿⡀       
+             ⣿⠇       
+             ⠋                                    
 
                                                       
