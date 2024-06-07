@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/cbf27695b78b1d761f442.jpg">
-    <h1 align="center">MASHAA MD V2</h1>
+    <img alt="wasi" height="300" src="https://telegra.ph/file/f80c5970acd581f3698b7.jpg">
+    <h1 align="center">QUEEN MASHA MD V2</h1>
   </a>
 </p>
 <p align="center">
@@ -34,7 +34,7 @@ Welcome to my awesome project! Here you'll find...
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# # <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
+# # <a href="https://dashboard.heroku.com/new?template=https://github.com/DINETH234567890/SHAGEE-MD-V2.0/tree/main"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`SHAGEE AND RUKI `](SHAGEE)
   [`MASHAA`](MASHAA)
