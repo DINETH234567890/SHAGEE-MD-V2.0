@@ -34,7 +34,7 @@ Welcome to my awesome project! Here you'll find...
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" 
+# # <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`ASTROPED FOR PLUGINS `](SHAGEE)
   [`ibrahim-tech-for-help`](MASHAA)
